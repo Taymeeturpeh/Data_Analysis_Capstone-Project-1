@@ -30,4 +30,7 @@ The source of the data used for this capstone project was provided by the The In
      ```Excel
      AVERAGE(C2:C100)
      ```
+  ### Data Vsualization
+  
 
+![pivot table summary](https://github.com/user-attachments/assets/ca8ec8a6-1134-440f-a293-d89b3e388cf4)
