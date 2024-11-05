@@ -15,9 +15,19 @@ The source of the data used for this capstone project was provided by the The In
 - Github for Portfolio building.
 
 ### Data Analysis and Insight(Excel)
-- Data Exploration: 
+- Data Exploration 
   1. Data Cleaning: I identified and handled missing values and removed duplicates to ensure data accuracy.
   2. Summary Statistics: I used functions like SUM, AVERAGE and COUNT to understand overall sales ad average revenue per transaction
   3. Pivot Tables: Pivot table summarizes sales by categories, region or periods to spot trends and compare performance.
   4. Data Visualization: I created charts(bar chart and pie chart) to visualize product performance and seasonal pattern.
+  
+- Data Analysis: This is where some basic line of code in my analysis are included.
+  1. SUM FUNCTION: Adds up a range of numbers
+     ``` Excel
+     SUM(B2:B100)
+     ```
+  2. AVERAGE FUNCTION: Calculate the average(mean) of a range of numbers.
+     ```Excel
+     AVERAGE(C2:C100)
+     ```
 
