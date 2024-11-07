@@ -55,4 +55,7 @@ FROM SalesData
 GROUP BY PRODUCT
 ```
 
-
+![Q1](https://github.com/user-attachments/assets/e268228b-06de-447d-86b1-ea43c01deea9)
+![Q2](https://github.com/user-attachments/assets/b2bf985d-3bb1-4223-8589-d6268238f5b6)
+![Q3](https://github.com/user-attachments/assets/8b708420-1247-4866-a2c3-ef16a803ca66)
+![Q4](https://github.com/user-attachments/assets/6562d7b8-e49b-4815-b8ef-8fa3b6726e0e)
