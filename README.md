@@ -32,11 +32,27 @@ The source of the data used for this capstone project was provided by the The In
      ```
   ### Data Visualization
 
-  
   ![SalesData image](https://github.com/user-attachments/assets/e7b8d519-eb0d-4d9b-880f-bc63c07c9a68)
-
 
 ![pivot table summary](https://github.com/user-attachments/assets/ca8ec8a6-1134-440f-a293-d89b3e388cf4)
 
-
 ![Dashboard of sales performance](https://github.com/user-attachments/assets/6e47f307-3ab9-4a83-a491-1bd6e0aa9fca)
+
+
+ ### SQL(Structured Query Language)
+
+ Below are some lines of code used in my query.
+ 
+ ```SQL
+SELECT PRODUCT, SUM(TOTAL_SALES)AS TOTALSALES
+FROM SalesData
+GROUP BY PRODUCT
+```
+
+```SQL
+SELECT TOP 1 PRODUCT, SUM(TOTAL_SALES) AS HIGHESTSELLINGPRODUCT
+FROM SalesData
+GROUP BY PRODUCT
+```
+
+
