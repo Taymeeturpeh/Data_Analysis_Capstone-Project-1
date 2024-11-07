@@ -54,8 +54,21 @@ SELECT TOP 1 PRODUCT, SUM(TOTAL_SALES) AS HIGHESTSELLINGPRODUCT
 FROM SalesData
 GROUP BY PRODUCT
 ```
+### Visualizations
 
 ![Q1](https://github.com/user-attachments/assets/e268228b-06de-447d-86b1-ea43c01deea9)
 ![Q2](https://github.com/user-attachments/assets/b2bf985d-3bb1-4223-8589-d6268238f5b6)
 ![Q3](https://github.com/user-attachments/assets/8b708420-1247-4866-a2c3-ef16a803ca66)
 ![Q4](https://github.com/user-attachments/assets/6562d7b8-e49b-4815-b8ef-8fa3b6726e0e)
+![Q5](https://github.com/user-attachments/assets/28cad898-7b24-4bb1-a033-86201532f22c)
+![Q6](https://github.com/user-attachments/assets/3cd0eae4-9a22-4bee-a4bb-0e903688fba5)
+![Q7](https://github.com/user-attachments/assets/b11542f2-1508-4ca5-b330-9da67b52a68a)
+![Q8](https://github.com/user-attachments/assets/5aa9ca96-3cbe-4082-b0fb-23d5f02c9c40)
+
+
+### Power Bi
+I designed a power bi dashboard that allows the exploratin of key metrics like total sales, product performance and sales trends over time. The dashboard includes several interactive visuals and filters for a user-friendly experience.
+
+### Visualization
+
+![Powerbi dashboard(sales perf)](https://github.com/user-attachments/assets/d2bc3218-d8cb-488f-9518-9ff45b9c6bce)
