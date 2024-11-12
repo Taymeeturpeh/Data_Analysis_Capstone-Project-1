@@ -26,14 +26,20 @@
 ### Project Overview
 This Project provides an analysis of a sales performance for a retail store using the given data set by Incubator Hub. This project involves data cleaning, exploratory data analysis and visualization in EXCEL, querying in SQL and interactive reports in POWER BI.
 
+----------------------------------------------------------------------------------------------
+
 ### Data Sources
 The source of the data used for this capstone project was provided by the The Incubator Hub.
+
+---------------------------------------------------------------------------------------------
 
 ### Tools Used
 - Microsoft Excel for Data cleaning, Data Analysis and Visualization.
 - SQL(Structured Query Language) for Querying data.
 - Microsoft Power Bi for interactive reports.
 - Github for Portfolio building.
+
+--------------------------------------------------------------------------------------------
 
 ### Data Analysis and Insight
 - Data Exploration 
@@ -58,6 +64,8 @@ The source of the data used for this capstone project was provided by the The In
 ![pivot table summary](https://github.com/user-attachments/assets/ca8ec8a6-1134-440f-a293-d89b3e388cf4)
 
 ![Dashboard of sales performance](https://github.com/user-attachments/assets/6e47f307-3ab9-4a83-a491-1bd6e0aa9fca)
+
+---------------------------------------------------------------------------------------------------
 
 
  ### SQL
@@ -85,6 +93,8 @@ GROUP BY PRODUCT
 ![Q6](https://github.com/user-attachments/assets/3cd0eae4-9a22-4bee-a4bb-0e903688fba5)
 ![Q7](https://github.com/user-attachments/assets/b11542f2-1508-4ca5-b330-9da67b52a68a)
 ![Q8](https://github.com/user-attachments/assets/5aa9ca96-3cbe-4082-b0fb-23d5f02c9c40)
+
+------------------------------------------------------------------------------------------------------
 
 
 ### Power Bi
