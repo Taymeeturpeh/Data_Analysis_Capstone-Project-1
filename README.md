@@ -2,6 +2,27 @@
 
 ### Capstone Project-1 Title: Sales Performance Analysis for a Retail Store using Excel, Sql and Power bi
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+ [Data Analysis and Insight](#data-analysis-and-insight)
+
+ [Data Visualization](#data-visualization)
+
+ [SQL](#sql)
+
+  [Visualizations](#visualizations)
+
+  [Power Bi](#power-bi)
+
+  [Visualization](#visualization)
+
+
+
+
 ### Project Overview
 This Project provides an analysis of a sales performance for a retail store using the given data set by Incubator Hub. This project involves data cleaning, exploratory data analysis and visualization in EXCEL, querying in SQL and interactive reports in POWER BI.
 
@@ -14,7 +35,7 @@ The source of the data used for this capstone project was provided by the The In
 - Microsoft Power Bi for interactive reports.
 - Github for Portfolio building.
 
-### Data Analysis and Insight(Excel)
+### Data Analysis and Insight
 - Data Exploration 
   1. Data Cleaning: I identified and handled missing values and removed duplicates to ensure data accuracy.
   2. Summary Statistics: I used functions like SUM, AVERAGE and COUNT to understand overall sales ad average revenue per transaction
@@ -39,7 +60,7 @@ The source of the data used for this capstone project was provided by the The In
 ![Dashboard of sales performance](https://github.com/user-attachments/assets/6e47f307-3ab9-4a83-a491-1bd6e0aa9fca)
 
 
- ### SQL(Structured Query Language)
+ ### SQL
 
  Below are some lines of code used in my query.
  
